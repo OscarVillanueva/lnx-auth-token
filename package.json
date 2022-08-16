@@ -3,6 +3,11 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/OscarVillanueva/lnx-auth-token.git",
+    "type": "git"
+  },
+  "homepage": "https://javier-villanueva.netlify.app",
   "files": [
     "dist"
   ],
